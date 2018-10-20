@@ -1,4 +1,3 @@
-# csc256_prac2
-# practice 2 for machine structure
-# author: jianfei (christian) zhao
+# csc256 hw 2
+# machine structure
 # github: https://github.com/whoseforce
